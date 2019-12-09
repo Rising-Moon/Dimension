@@ -1,6 +1,6 @@
 # Dimension（维度）
 ## 游戏平台：
--PC平台（Windows）
+- PC平台（Windows）
 ## 游戏类型：
 - 2D/3D闯关解谜游戏
 ## 游戏介绍：
